@@ -1,0 +1,10 @@
+Total time for sequential processing with 250 of data = 4.81 s
+
+Total time for sequential processing with 250 of data = 4.25 s
+
+Total time for sequential processing with 2500 of data = 39.90 s
+
+Total time for sequential processing with 250 of data = 4.33 s
+
+Total time for sequential processing with 250 of data = 4.78 s
+

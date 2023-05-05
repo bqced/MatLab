@@ -1,0 +1,15 @@
+Looking for text data in ../Model/o3_surface_20180701000000.nc.. 
+All data is numeric, continue analysis
+NC_Float
+NC_Float
+NC_Float
+NC_Float
+NC_Float
+NC_Float
+NC_Float
+NC_Float
+NC_Float
+NC_Float
+NC_Float
+Testing files: ../Model/o3_surface_20180701000000.nc
+No errors!

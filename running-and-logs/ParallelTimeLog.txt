@@ -1,0 +1,8 @@
+Total time for processing with 1 Worker and 250 of data = 20.01 s
+
+Total time for processing with 1 Worker and 250 of data = 4.62 s
+
+Total time for processing with 1 Worker and 2500 of data = 38.00 s
+
+Total time for processing with 1 Worker and 250 of data = 3.56 s
+

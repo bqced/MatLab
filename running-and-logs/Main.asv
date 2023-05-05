@@ -1,0 +1,15 @@
+close all
+samples =[30000 , 60000] ; 
+numofworkers = [1,2,3,4,5,6,7,8] ;
+lenoflist2 = length(numofworkers);
+lenoflist = length(samples);
+for kidx = 1 : lenoflist
+  samplesize = samples(kidx) ;
+  SequentialProcessing(samplesize)
+  for jidx = 1 : lenoflist2
+      fprintf("Parallel Processing  Total data of : %i  , Number of Workers : %i\n" ,samplesize , numofworkers(jidx) )
+      numofworkerss = numofworkers(jidx) ; 
+      ParallelProcessing(numofworkerss,samplesize)
+  end
+  TestAll('../Model/o3_surface_20180701000000.nc')
+end
